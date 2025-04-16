@@ -3,14 +3,14 @@ import Link from "next/link";
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
 
 export const gridItems = [
   {
     id: 1,
-    title: "I build modern and responsive websites with a focus on performance.",
+    title:
+      "I build modern and responsive websites with a focus on performance.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -177,11 +177,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link:"https://github.com/05Ambuj",
+    link: "https://github.com/05Ambuj",
   },
   {
     id: 3,
     img: "/link.svg",
-    link:"https://www.linkedin.com/in/ambujm05/",
+    link: "https://www.linkedin.com/in/ambujm05/",
   },
 ];
