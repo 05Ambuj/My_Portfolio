@@ -75,18 +75,34 @@ export const projects = [
   {
     id: 1,
     header: "Campistan",
-    title: "A camping mate",
+    title: "Campistan- A camping mate",
     des: "Explore the Camps and enjoy the nature with Campistan. A camping mate for all the campers out there.",
     img: "/p11.png",
     link: "https://campistan.vercel.app/",
   },
   {
     id: 2,
+    header: "Wiggle",
+    title: "Wiggle - A social media platform",
+    des: "Social media platform for all the wigglers out there. Share your thoughts and connect with others.",
+    img: "/p4.png",
+    link: "https://wiggle-v5ys.onrender.com/",
+  },
+  {
+    id: 3,
     header: "Weathera",
     title: "Weathera - Know the weather",
     des: "A weather app that shows the current weather and forecast along with ad-on features.",
     img: "/p2.png",
     link: "https://05ambuj.github.io/Weathera/",
+  },
+  {
+    id: 4,
+    header: "Escapo",
+    title: "Escapo - X clone",
+    des: "Social media platform frontend clone.",
+    img: "/p3.png",
+    link: "https://esc-2.vercel.app/",
   },
 ];
 
